@@ -1,0 +1,1 @@
+let links ["Home", "About", "Blog", "Contact"];
